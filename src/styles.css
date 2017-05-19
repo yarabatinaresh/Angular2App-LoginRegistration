@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+.has-error .help-block{
+    color: red;
+    
+}
+.has-error .form-control{
+    border-color: red;
+}
+.brand{
+    font-weight: 600;
+}
+.jumbotron{
+background-color: #bbdcfb;
+}
+.alert-success{
+    background-color: #c6e99a;
+    color: #369536;
+    border-color: #369536;  
+    font-size: 16px;
+}
+.alert-danger {
+    color: red;
+    background-color: #fdd6d7;
+    border-color: red;
+    font-size: 16px;
+}
